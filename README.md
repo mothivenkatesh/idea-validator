@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/ai-cofounder-banner.svg" alt="AI Cofounder" width="720"/>
+  <img src="assets/ai-cofounder-banner.png" alt="AI Cofounder" width="720"/>
 </p>
 
 <h1 align="center">AI Cofounder</h1>
